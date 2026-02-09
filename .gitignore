@@ -11,3 +11,4 @@ nodemon.json
 dist
 
 uploads
+.vercel
